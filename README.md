@@ -1,2 +1,2 @@
 # Gthrep
-// Anything
+Anything
